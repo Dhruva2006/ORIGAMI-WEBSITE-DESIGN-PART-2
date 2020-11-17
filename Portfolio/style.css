@@ -1,0 +1,35 @@
+h1{
+    color:red;
+}
+h2{
+    color:royalblue;
+}
+*{
+    border:solid navy;
+}
+.headder{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.body{
+    background-color: burlywood;
+}
+.grid{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    background-color: cornsilk;
+}
+.footer{
+    background-color: crimson;
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: (#FFEFE5);
+    /*background-color: (128, 128, 128);*/
+}
